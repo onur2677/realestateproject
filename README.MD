@@ -4,7 +4,7 @@
 
 Directory : ./
 
-Technologies : .Net Core Minimal API + Entity Framework + Sqlite & Migration + Docker
+Technologies : .Net Core Minimal API + Entity Framework + Sqlite & Migration + Docker + Swagger
 
 ## Frontend
 
